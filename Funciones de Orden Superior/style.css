@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(253, 165, 165);
+}
+
+#table, tr, td, th{
+    outline: 1px solid black;
+    border-collapse: collapse;
+    margin: 5rem;
+    padding:.5rem;
+    margin-left: 25rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-color: rgba(2, 2, 2, 0.267);
+    border:1px solid white;
+}
